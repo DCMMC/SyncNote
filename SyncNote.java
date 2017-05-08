@@ -5,6 +5,7 @@ import java.nio.file.Files;
 
 /**
  * @author DCMMC
+ * @since 1.7
  * class comment : A simple CLI tool to sync Note to Markdown file from Source Code's comments
  * Created by DCMMC on 2017/5/8.
  */
